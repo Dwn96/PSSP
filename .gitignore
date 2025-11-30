@@ -1,0 +1,5 @@
+node_modules
+dist
+.env
+demo-curl.sh
+WALKTHROUGH_SCRIPT.md
