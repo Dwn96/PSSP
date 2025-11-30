@@ -12,6 +12,15 @@ A NestJS-based REST API that calculates learner readiness scores based on progre
 - **API Documentation**: Interactive Swagger/OpenAPI documentation
 - **CORS Enabled**: Ready for frontend integration
 
+## Video Walkthrough
+
+**[Watch the Complete Walkthrough (Loom)](https://www.loom.com/share/0da9a3e27e654d078a8aab372c339e72)**
+
+This video provides a comprehensive overview of the Readiness Score API:
+- **Code Structure**: Walks through the project organization and key files
+- **Design Choices**: Explains the architectural decisions and scoring logic
+- **Live Demo**: Shows a request and response demonstration using EchoAPI
+
 ## Quick Start
 
 ### Prerequisites
